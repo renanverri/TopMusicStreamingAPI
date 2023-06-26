@@ -17,7 +17,7 @@ const (
 	DeezerCollectorBaseUri     = "https://kworb.net/charts/deezer/"
 )
 
-const AppDomainBaseUri = top-music-streaming-api.vercel.app"
+const AppDomainBaseUri = "top-music-streaming-api.vercel.app"
 const CollectorDomain = "kworb.net"
 const HTMLEXT = ".html"
 
